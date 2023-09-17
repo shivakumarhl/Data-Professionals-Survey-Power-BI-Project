@@ -8,7 +8,7 @@ Data cleaned and explored in excel and visually analyzed in Power BI.
 
 
 ## Project Details:
-● Collected 10000 unprocessed survey data from a diverse group of data professionals across multiple countries, encompassing a variety of question types.
+● Collected unprocessed survey data from a diverse group of data professionals across multiple countries, encompassing a variety of question types.
 
 ● Employed Excel to refine raw data and make necessary adjustments for visualization purposes.
 
